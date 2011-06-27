@@ -1,0 +1,50 @@
+README
+--------------------------------------------
+Velvet Memory Calculator v. 0.1
+(c) 2011 Leonardo Varuzza , Jacob Israel Cervantes Luevano
+http://www.langebio.cinvestav.mx
+http://www.langebio.cinvestav.mx/bioinformatica/jacob
+Langebio Cinvestav, Dept. of Bioinformatics 
+--------------------------------------------
+
+TABLE OF CONTENTS
+I.   INTRODUCTION		
+II.  DOCUMENTATION
+III. CONTACT INFO
+IV.  REPORTING BUGS
+
+Project WebSite: http://denovoutils.appspot.com/
+mirror (ajax version) http://www.langebio.cinvestav.mx/bioinformatica/jacob/projects/velvetmemAjax
+
+
+I. INTRODUCTION
+Does someone have an idea of how much memory would velvet require for a given input of short reads?
+
+II. DOCUMENTATION
+Usage:
+
+Read Size - Read size in bp (base pairs)
+Genome Size - Genome size in Mbp (megabase pairs)
+Number of reads - Number of reads in millions(integer number)
+k - k-mer size (parameter of Velvet)
+
+The regression equation should be fairly valid for the following ranges:
+K(velvet parameter) = 15 - 31.
+Numreads = 5 - 70 million.
+Genome size = 2 - 10 Megabases.
+Read length (size) = 20 - 75 bases. 
+
+III. CONTACT INFO
+Feel free to contact me if you have any comments, suggestions, questions, complaints, whatever.
+
+Leonardo Varuzza, Jacob Israel Cervantes Luevano
+Langebio Cinvestav, Dept. of Bioinformatics
+Irapuato, Guanajuato México
+
+Email: Leonardo.Varuzza@lifetech.com
+Email: jacob@jacob-israel.com.mx
+Email: jacobnix@gmail.com
+WebSite: http://www.jacob-israel.com.mx/bio/blog
+
+IV. REPORTING BUGS
+Email me please

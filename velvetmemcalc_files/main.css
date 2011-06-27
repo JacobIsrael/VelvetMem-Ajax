@@ -1,0 +1,42 @@
+#header {
+    text-align: center;
+    background-color: #11134e;
+    color: white;
+}
+
+#menu {
+    float: left;
+    width: 18%;
+    padding: 5pt;
+    border-style: solid;
+    border-width: 1px;
+    border-color: gray;
+}
+
+#velvetMem {
+    margin-bottom: 2ex;
+}
+
+#velvetMem table {
+    border-spacing:5pt;
+}
+
+#contents {
+    float: center;
+    margin-left: 20%;
+    width: 75%;
+    padding: 10pt;
+
+    border-style: solid;
+    border-width: 1px;
+    border-color: gray;
+}
+
+
+#copyright {
+    text-align: center;
+    font-size: small;
+    margin-top: 10ex;
+    width: 100%;
+}
+

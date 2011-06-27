@@ -1,0 +1,10 @@
+.textbox {
+	border : 1px black solid;	
+}
+
+#copyright {
+    text-align: center;
+    font-size: small;
+    margin-top: 10ex;
+    width: 100%;
+}
